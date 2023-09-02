@@ -1,0 +1,1 @@
+const cpyUrl=()=>navigator.clipboard.writeText(window.location.href);
